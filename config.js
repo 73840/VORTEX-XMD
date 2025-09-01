@@ -9,14 +9,14 @@ module.exports = {
     // ==============================
     //          SESSION
     // ==============================
-    SESSION_ID: process.env.SESSION_ID || "",
+    SESSION_ID: process.env.SESSION_ID || "HansTz&L1BwESwK#4yfupEFH4QWhU9tg6xGg1JDRGh3yA1LYnOk55_YgslE",
 
     // ==============================
     //           OWNER
     // ==============================
     OWNER_NUMBER: process.env.OWNER_NUMBER || "",
     OWNER_NAME: process.env.OWNER_NAME || "HansTech",
-    DEV: process.env.DEV || "255760774888",
+    DEV: process.env.DEV || "917384786856",
 
     // ==============================
     //         ANTI CALL
